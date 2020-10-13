@@ -9,7 +9,7 @@ export default {};
 </script>
 
 <style scoped>
-#footer {
+.footer {
   height: 40;
   background: #222;
 }
